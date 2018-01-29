@@ -3,8 +3,8 @@ A practice for newbies in Deep Learning
 
 The code has been already written, but there are still several things you can do to practice yourself.
 1. You can add layers, delete layers, change the nodes in each layers, change the epoches, batchsize, or other parameters for training.
-2. You can replacing the existing activation function by other functions, more will be viewed in keras.io
-3. You can replacing the existing optimizer (which is Adam now) by other optimizers, and observe what will happen using different optimizer.
+2. You can replace the existing activation function by other functions, more will be viewed in keras.io
+3. You can replace the existing optimizer (which is Adam now) by other optimizers, and observe what will happen using different optimizer.
 4. One more thing for 3, if you use SGD, you will find the accuracy will not improve at all, try to give a specific explaination (This question is somehow tough, so don't blame yourself for not knowing the reason :P )
 
 More things about Classification:
